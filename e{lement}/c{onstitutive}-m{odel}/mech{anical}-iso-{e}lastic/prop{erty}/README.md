@@ -1,0 +1,5 @@
+# prop{erty}
+pcdc e{lement} c{onstitutive}-m{odel} mech{anical}-iso-{e}lastic <span style='color: red;'>prop{erty}</span>
+> **描述：**本构模型参数赋值
+
+**子关键词：**[den{sity}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/den{sity}/)，[y{oung}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/y{oung}/)，[p{oisson}-r{atio}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/p{oisson}-r{atio}/)，[s{hear}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/s{hear}/)，[b{ulk}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/b{ulk}/)，[d{amp}-f{actor}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/d{amp}-f{actor}/)，[d{amp}-b](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/d{amp}-b/)，[pen{alty}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/pen{alty}/)，[fri{ction}](e{lement}/c{onstitutive}-m{odel}/mech{anical}-iso-{e}lastic/prop{erty}/fri{ction}/)，

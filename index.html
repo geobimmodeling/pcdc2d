@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PCDC命令关键词列表(2D版)</title>
+		<link rel="icon" href="favicon.ico">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="theme/theme-simple.css">
+		<script src="theme/docsify-themeable.min.js"></script>
+	</head>
+	<body>
+		<div id="app">加载中...</div>
+		<script>
+			window.$docsify = {
+				//...
+				auto2top: true,
+				loadSidebar: true,
+				subMaxLevel: 6,
+				name: 'PCDC命令关键词列表(2D版)',
+				homepage: 'wd.md',
+				//coverpage: true,
+				// 搜索功能相关
+				search: {
+					maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+					paths: 'auto',
+					placeholder: '输入关键字搜索',
+					noData: '没有搜到',
+					depth: 6 // 搜索标题的最大程级, 1 - 6
+				},
+				// 代码块点击复制
+				copyCode: {
+					buttonText: '复制',
+					errorText: '出错了',
+					successText: '已复制'
+				}
+			}
+		</script>
+		<script src="theme/docsify.min.js"></script>
+		<script src="theme/search.min.js"></script>
+		<script src="theme/docsify-copy-code.min.js"></script>
+		<script src="theme/docsify-sidebar-collapse.min.js"></script>
+	</body>
+</html>

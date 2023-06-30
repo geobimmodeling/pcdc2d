@@ -1,0 +1,5 @@
+# prop{erty}
+pcdc f{ace}-j{oint} c{onstitutive}-m{odel} c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface} <span style='color: red;'>prop{erty}</span>
+> **描述：**赋本构模型的参数值
+
+**子关键词：**[f{riction}](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/f{riction}/)，[c{ohesion}](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/c{ohesion}/)，[t{ensile}-s{trength}](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/t{ensile}-s{trength}/)，[gf1](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/gf1/)，[gf2](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/gf2/)，[p{enalty}-n{ormal}](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/p{enalty}-n{ormal}/)，[p{enalty}-s{hear}](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/p{enalty}-s{hear}/)，[p{enalty}-o{verlay}](f{ace}-j{oint}/c{onstitutive}-m{odel}/c{lassic}-i{ntrinsic}-c{ohesive}-i{nterface}/prop{erty}/p{enalty}-o{verlay}/)，
