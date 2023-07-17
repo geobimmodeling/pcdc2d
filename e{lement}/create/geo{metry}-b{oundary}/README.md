@@ -41,3 +41,6 @@ pcdc element group 'b' range geometry-loc 'b' ray-dir (1,0) count 1
 					
 
 ```
+
+
+![图片](element-create-geometry-boundary.png)

@@ -175,7 +175,7 @@
       * [p2](e{lement}/create/b{rick}/p2/)
       * [n](e{lement}/create/b{rick}/n/)
       * [r{atio}](e{lement}/create/b{rick}/r{atio}/)
-      * [tri^angle](e{lement}/create/b{rick}/tri^angle/)
+      * [tri{angle}](e{lement}/create/b{rick}/tri{angle}/)
     * [geo{metry}](e{lement}/create/geo{metry}/)
       * [layer](e{lement}/create/geo{metry}/layer/)
         * [m{esh}-s{ize}](e{lement}/create/geo{metry}/layer/m{esh}-s{ize}/)
