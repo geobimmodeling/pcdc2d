@@ -7,7 +7,10 @@ pcdc e{lement}-f{ace} b{oundary} a{pply} <span style='color: red;'>therm{al}-c{o
 
 **举例：**
 ```
-pcdc element-face apply m-s-b-c stress-y 2e6 range x 0 1000.0
-#该命令定义在X从0到1000.0和Y从-5到0范围内的单元-面上施加y方向应力2e6
+pcdc element-face apply therm-c-heat heat-flux 1.0 t-c 2.0 e-t 30 range x 0 1000.0
+#该命令定义在X从0到1000.0范围内单元-面上施加热力学边界条件：
+#热通量为1.0
+#与环境之间的传热系为2.0
+#环境温度值为30摄氏度
 
 ```
