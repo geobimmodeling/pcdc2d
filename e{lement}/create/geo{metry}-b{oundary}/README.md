@@ -30,14 +30,14 @@ b_array.append(Vector(30,25))
 b_array.append(Vector(30,30))
 b_array.append(Vector(25,30))
 
-						#create closed polyline with given point array
-						pcdc geometry create polyline-close [b_array] as-layer 'b'
+#create closed polyline with given point array
+pcdc geometry create polyline-close [b_array] as-layer 'b'
 					
 #create triangular element model with defined geometry boundary
 pcdc element create geometry-boundary boundary [p0] [p1] [p2] [p3] m-s 2.0 inner-boundary [a_array] m-s 2.0 inner-boundary [b_array] m-s 2.0 filled true
 
-						#group element
-						pcdc element group 'b' range geometry-loc 'b' ray-dir (1,0) count 1
+#group element
+pcdc element group 'b' range geometry-loc 'b' ray-dir (1,0) count 1
 					
 
 ```
