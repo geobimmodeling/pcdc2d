@@ -35,3 +35,6 @@ pcdc element create geometry-patch b-c-p array [a_array] m-s 2.0 c-polyline laye
 pcdc element group 'b' set 'model' range geometry-location 'b' ray-dir (1,0) count 1
 
 ```
+
+
+![图片](element-create-geometry-patch.png)

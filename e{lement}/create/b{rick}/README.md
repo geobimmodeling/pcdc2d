@@ -5,7 +5,7 @@ pcdc e{lement} create <span style='color: red;'>b{rick}</span>
 
 ![图片](brick2.png)
 
-**子关键词：**[p0](e{lement}/create/b{rick}/p0/)，[p1](e{lement}/create/b{rick}/p1/)，[p2](e{lement}/create/b{rick}/p2/)，[n](e{lement}/create/b{rick}/n/)，[r{atio}](e{lement}/create/b{rick}/r{atio}/)，[tri^angle](e{lement}/create/b{rick}/tri^angle/)，
+**子关键词：**[p0](e{lement}/create/b{rick}/p0/)，[p1](e{lement}/create/b{rick}/p1/)，[p2](e{lement}/create/b{rick}/p2/)，[n](e{lement}/create/b{rick}/n/)，[r{atio}](e{lement}/create/b{rick}/r{atio}/)，[tri{angle}](e{lement}/create/b{rick}/tri{angle}/)，
 
 
 **举例：**

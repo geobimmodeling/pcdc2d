@@ -32,3 +32,6 @@ pcdc element group 'c' set 'model' range in-circle c (0,0) rad 5.0
 pcdc element group 'b' set 'model' range geometry-location 'b' ray-dir (1,0) count 1 group 'c' set 'model' not 
 
 ```
+
+
+![图片](element-create-geometry.png)

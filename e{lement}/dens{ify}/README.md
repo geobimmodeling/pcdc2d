@@ -19,3 +19,6 @@ pcdc element densify pattern 1 1 max-length 1.0 1.0 range geom-dis 'c' within 10
 pcdc element group 'tunnel' range geom-loc 'c' r-dir 0,1 count 1
 
 ```
+
+
+![图片](element-densify.png)

@@ -12,3 +12,6 @@ pcdc model new
 pcdc element create h-circle c (0,0) rad 50 m-s 2.0 i-rad 20 m-s 1.0
 
 ```
+
+
+![图片](element-create-hollow-circle.png)
