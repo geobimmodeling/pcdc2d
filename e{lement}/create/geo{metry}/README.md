@@ -1,6 +1,6 @@
 # geo{metry}
 pcdc e{lement} create <span style='color: red;'>geo{metry}</span>
-> **描述：**根据几何生成单元网格模型。\n给定一个或多个几何线段（包括折线）及其对应的网格剖分大小生成三角形单元网格模型。\n其中一个给定的几何必须能构成封闭面，超出封闭面的线段自动被裁剪。
+> **描述：**根据几何生成单元网格模型。给定一个或多个几何线段（包括折线）及其对应的网格剖分大小生成三角形单元网格模型。其中一个给定的几何必须能构成封闭面，超出封闭面的线段自动被裁剪。
 
 **子关键词：**[layer](e{lement}/create/geo{metry}/layer/)，[cir{cle}](e{lement}/create/geo{metry}/cir{cle}/)，[arc](e{lement}/create/geo{metry}/arc/)，
 
