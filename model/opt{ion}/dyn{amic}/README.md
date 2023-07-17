@@ -13,5 +13,7 @@ pcdc model opt{ion} <span style='color: red;'>dyn{amic}</span>
 ```
 pcdc model dynamic on
 #该命令启用动力学计算
+pcdc model dynamic off
+#该命令禁用动力学计算
 
 ```

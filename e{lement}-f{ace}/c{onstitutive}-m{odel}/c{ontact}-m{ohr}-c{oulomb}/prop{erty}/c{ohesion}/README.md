@@ -1,6 +1,6 @@
 # c{ohesion}
 pcdc e{lement}-f{ace} c{onstitutive}-m{odel} c{ontact}-m{ohr}-c{oulomb} prop{erty} <span style='color: red;'>c{ohesion}</span>
-> **描述：**粘结力
+> **描述：**粘结力。省缺值为0
 
 > 
 > **值：**

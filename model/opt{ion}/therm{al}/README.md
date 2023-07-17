@@ -13,5 +13,7 @@ pcdc model opt{ion} <span style='color: red;'>therm{al}</span>
 ```
 pcdc model therm on
 #该命令启用热力学分析模块
+pcdc model therm off
+#该命令禁用热力学分析模块
 
 ```

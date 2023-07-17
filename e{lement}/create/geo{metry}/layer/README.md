@@ -11,7 +11,7 @@ pcdc e{lement} create geo{metry} <span style='color: red;'>layer</span>
 > 
 > ...（[string](数据类型/string/)，任意多个几何线段层位名称）
 > 
-> f2（[float](数据类型/float/)，对应第二个几何线段的网格剖分大小值）
+> f1（[float](数据类型/float/)，对应第二个几何线段的网格剖分大小值）
 > 
 > b（[bool](数据类型/bool/)，对应第二个几何线段的网格剖分大小值）
 

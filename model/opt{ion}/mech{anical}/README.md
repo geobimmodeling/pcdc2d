@@ -13,5 +13,7 @@ pcdc model opt{ion} <span style='color: red;'>mech{anical}</span>
 ```
 pcdc model mech on
 #该命令启用力学分析模块
+pcdc model mech off
+#该命令禁用启用力学分析模块
 
 ```
