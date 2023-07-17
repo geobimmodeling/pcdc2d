@@ -5,5 +5,5 @@ pcdc f{ace}-j{oint} c{onstitutive}-m{odel} hydr{aulic}-p{orous}-p{roppant}-m{edi
 > 
 > **值：**
 > 
-> f（[float](数据类型/float/)，浓度最大值）
+> f（[float](数据类型/float/)，）
 

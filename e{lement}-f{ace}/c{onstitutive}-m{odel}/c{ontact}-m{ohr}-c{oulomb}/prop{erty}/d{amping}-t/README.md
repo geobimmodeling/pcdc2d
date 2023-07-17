@@ -1,6 +1,6 @@
 # d{amping}-t
 pcdc e{lement}-f{ace} c{onstitutive}-m{odel} c{ontact}-m{ohr}-c{oulomb} prop{erty} <span style='color: red;'>d{amping}-t</span>
-> **描述：**阻尼参数t值
+> **描述：**阻尼参数t值。省缺值为0
 
 > 
 > **值：**

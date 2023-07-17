@@ -6,7 +6,7 @@ pcdc model <span style='color: red;'>pl{ane}-strain</span>
 
 **举例：**
 ```
-pcdc model pl-stress
+pcdc model pl-strain
 #该命令设置模型为平面应变状态
 
 ```

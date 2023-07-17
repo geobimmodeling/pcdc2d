@@ -7,7 +7,7 @@ pcdc e{lement} c{onstitutive}-m{odel} <span style='color: red;'>therm{al}-iso-h{
 
 **举例：**
 ```
-pcdc element c-model therm-iso-h cond 100.0 cap 0.0 e-c 80.0 range group 't' set 'sample'
+pcdc element c-model therm-iso-h property cond 100.0 cap 0.0 e-c 80.0 range group 't' set 'sample'
 #该命令定义在命名"sample"类组名为"t"的单元的本构模型为各向同性热力学本构模型，其参数值分别为：
 热导率=100.0
 热容=0.0

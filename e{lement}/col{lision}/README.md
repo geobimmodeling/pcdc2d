@@ -12,6 +12,6 @@ pcdc e{lement} <span style='color: red;'>col{lision}</span>
 **举例：**
 ```
 #下列命令定义在给定范围的单元不进行接触判断和接触力计算
-pcdc element col false range x 0 1000.0
+pcdc element collision false range x 0 1000.0
 
 ```

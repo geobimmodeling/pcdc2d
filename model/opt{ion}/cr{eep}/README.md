@@ -1,6 +1,6 @@
 # cr{eep}
 pcdc model opt{ion} <span style='color: red;'>cr{eep}</span>
-> **描述：**启用或禁用蠕变力学计算模块
+> **描述：**启用或蠕变力学计算模块
 
 > 
 > **值：**
@@ -13,5 +13,7 @@ pcdc model opt{ion} <span style='color: red;'>cr{eep}</span>
 ```
 pcdc model creep on
 #该命令启用蠕变力学计算模块
+pcdc model creep off
+#该命令禁用蠕变力学计算模块
 
 ```

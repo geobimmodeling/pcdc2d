@@ -9,3 +9,11 @@ pcdc model sol{ve} <span style='color: red;'>c{ycle}</span>
 > 
 > i（[int](数据类型/int/)，计算迭代步）
 
+
+
+**举例：**
+```
+pcdc model solve cycle 2000
+#该命令设置计算迭代步长2000，并开始迭代计算
+
+```

@@ -13,5 +13,7 @@ pcdc model opt{ion} <span style='color: red;'>p{roppant}-t{ransport}</span>
 ```
 pcdc model p-t on
 #该命令启用支撑剂运输计算模块
+pcdc model p-t off
+#该命令禁用支撑剂运输计算模块
 
 ```

@@ -1,6 +1,6 @@
 # a{perture}-max{imum}
 pcdc f{ace}-j{oint} c{onstitutive}-m{odel} hydr{aulic}-p{orous}-m{edium} prop{erty} <span style='color: red;'>a{perture}-max{imum}</span>
-> **描述：**最大张开度。省缺值：1e-3
+> **描述：**最大水力张开度。省缺值：1e-3
 。可选
 
 > 
